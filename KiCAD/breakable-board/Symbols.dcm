@@ -1,0 +1,18 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP Package_SOIC-14
+D SOIC-14 Package
+K SOIC
+$ENDCMP
+#
+$CMP Package_SSOP-20
+D SSOP-20 Package
+K SSOP
+$ENDCMP
+#
+$CMP Package_TQFP-32
+D TQFP-32 Package
+K TQFP
+$ENDCMP
+#
+#End Doc Library
