@@ -1,4 +1,4 @@
-update=07/13/2020 12:06:44 AM
+update=14.08.2020 10:07:50
 version=1
 last_client=kicad
 [general]
@@ -27,7 +27,7 @@ version=1
 PageLayoutDescrFile=
 LastNetListRead=holes.net
 CopperLayerCount=2
-BoardThickness=1.6
+BoardThickness=1
 AllowMicroVias=0
 AllowBlindVias=0
 RequireCourtyardDefinitions=0
