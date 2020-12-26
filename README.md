@@ -7,4 +7,7 @@ It has 4 breakable module;
 - Power Module
 - TTL to UART Converter Module
 
+<<<<<<< HEAD
+<img src="Images/Modular-Development-Board-Front-blue.png" width="800">
+=======
 <img src="Images/Modular-Development-Board-Front-blue.png" width="800">
