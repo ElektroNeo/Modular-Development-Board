@@ -6,3 +6,5 @@ It has 4 breakable module;
 - Light Sensor and Buzzer Module
 - Power Module
 - TTL to UART Converter Module
+
+<img src="Images/Modular-Development-Board-Front-blue.png" width="800">
